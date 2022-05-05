@@ -77,7 +77,12 @@ cpb = []
 vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 os.system('clear')
-logo = ' __  __    _    _   _    _    ____ ___\n|  \/  |  / \  | | | |  / \  |  _ \_ _|\n| |\/| | / _ \ | |_| | / _ \ | | | | |\n| |  | |/ ___ \|  _  |/ ___ \| |_| | |\n|_|  |_/_/   \_\_| |_/_/   \_\____/___|\n\x1b[1;93m______________________________________________________\n \n \x1b[1;93m(*)\x1b[1;92m Developer : MAHADI HASAN AFRIDI \x1b[1;33m\xf0\x9f\x94\xa5AFRIDI\xf0\x9f\x94\xa5\n \x1b[1;93m(*)\x1b[1;92m FACEBOOK  : Mahadi Hasan Afridi\n \x1b[1;93m(*)\x1b[1;92m Tool type : Cloning Tool\n \x1b[1;93m(*)\x1b[1;92m Github    : https://github.com/MAHADI-143\n\x1b[1;93m______________________________________________________\n'
+logo = '________    _________   _____      _____      _____   
+\_____  \  /   _____/  /  _  \    /     \    /  _  \  
+ /   |   \ \_____  \  /  /_\  \  /  \ /  \  /  /_\  \ 
+/    |    \/        \/    |    \/    Y    \/    |    \
+\_______  /_______  /\____|__  /\____|__  /\____|__  /
+        \/        \/         \/         \/         \/ \n\x1b[1;93m______________________________________________________\n \n \x1b[1;93m(*)\x1b[1;92m Developer : OSAMA ALBALOSHI \x1b[1;33m\xf0\x9f\x94\xa5AFRIDI\xf0\x9f\x94\xa5\n \x1b[1;93m(*)\x1b[1;92m FACEBOOK  : OSAMA ALBALOSHI\n \x1b[1;93m(*)\x1b[1;92m Tool type : Cloning Tool\n \x1b[1;93m(*)\x1b[1;92m Github    : https://github.com/USAMAXAHMED109\n\x1b[1;93m______________________________________________________\n'
 
 def login():
     os.system('clear')
